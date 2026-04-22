@@ -1,0 +1,16 @@
+# Binaries
+*.out
+*.o
+*.obj
+*.exe
+
+# Local test files
+/test_main.cpp
+/a.out
+
+# Build directories
+/build/
+
+# OS files
+.DS_Store
+Thumbs.db
